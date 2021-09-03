@@ -1,0 +1,57 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: 'Space Mono', monospace;
+}
+
+header{
+  width: 133px;
+  height: 25px;
+  margin-top: 40px;
+  margin-left: 77px;
+  font-weight: 700;
+  size: 24px;
+
+}
+
+#ImgClow{
+  position: absolute;
+  width: 50vw;
+}
+
+#Text{
+  float: right;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  font-weight: 400;
+  size: 24px;
+}
+
+#Text h1{
+  width: 586px;
+  height: 190px;
+  font-size: 64px;
+}
+
+#Text h3{
+  width: 381px;
+  height: 108px;
+  font-weight: 400;
+  size: 24px;
+  color: #4F4F4F;
+}
+
+#Text button{
+  width: 216px;
+  height: 68px;
+  margin-top: 64px;
+  background-color: #333333;
+  color: #ffffff;
+  font-weight: 700;
+  size: 14px;
+}
+
+footer{
+  text-align: center;
+}
